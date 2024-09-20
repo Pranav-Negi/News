@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# This app will not show image and news will 12 hours late cause of Api restrictions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
